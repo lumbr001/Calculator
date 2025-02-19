@@ -46,8 +46,9 @@ def get_number(prompt):
             print("Invalid input. Please enter a number.")
 
 def main():
-    print("Simple Calculator")
-    print("Operations: +, -, *, /")
+    print("Calculator")
+    print("This is a basic calculator program that can perform the following operations:")
+    print("Operations: +, -, *, /, **")
     print("Enter 'exit' to quit.\n")
 
     while True:
